@@ -1,0 +1,8 @@
+ru/itis/html/generator/HtmlProcessor$1.class
+ru/itis/html/generator/HtmlProcessor.class
+ru/itis/html/generator/HtmlInput.class
+ru/itis/html/generator/FormInput.class
+ru/itis/html/generator/HtmlForm.class
+ru/itis/html/generator/FormInput$FormInputBuilder.class
+META-INF/services/javax.annotation.processing.Processor
+ru/itis/html/generator/User.class
